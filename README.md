@@ -8,12 +8,11 @@ A premium, fully responsive tarot reading website built with React, TypeScript, 
 
 ## ✨ Features
 
-- 🎯 **CMS-Driven Content** - All content dynamically configurable
-- 📱 **Fully Responsive** - Perfect on all devices with mobile navigation  
-- 🎨 **Premium UI Design** - Glassmorphism effects and smooth animations
-- ⚡ **Interactive Animations** - Card-pulling effects with Framer Motion
-- 🇮🇳 **Localized for India** - ₹ currency, Mumbai contact details
-- 🔧 **Modern Tech Stack** - React 18 + TypeScript + Tailwind CSS
+-  **CMS-Driven Content** - All content dynamically configurable
+-  **Fully Responsive** - Perfect on all devices with mobile navigation  
+-  **Premium UI Design** - Glassmorphism effects and smooth animations
+-  **Interactive Animations** - Card-pulling effects with Framer Motion
+-  **Modern Tech Stack** - React 18 + TypeScript + Tailwind CSS
 
 ## 🛠️ Tech Stack
 
