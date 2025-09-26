@@ -1,4 +1,4 @@
-# 🔮 Mystic Tarot - Professional Tarot Reading Website
+# Mystic Tarot - Professional Tarot Reading Website
 
 A premium, fully responsive tarot reading website built with React, TypeScript, and modern UI/UX principles.
 
