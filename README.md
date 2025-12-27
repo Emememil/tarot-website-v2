@@ -4,7 +4,7 @@ A premium, fully responsive tarot reading website built with **React**, **TypeSc
 
 ---
 
-## Development Philosophy: Efficient Engineering
+## 🚀 Development Philosophy: Efficient Engineering
 
 **This project was a case study in high-velocity development.** By utilizing an AI-augmented workflow (Claude/Gemini), I focused on delivering a production-ready interface with a priority on:
 
@@ -14,13 +14,13 @@ A premium, fully responsive tarot reading website built with **React**, **TypeSc
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
 **[🔗 View Live Website](https://spiffy-piroshki-7c3eab.netlify.app)**
 
 ---
 
-## Features
+## ✨ Features
 
 * **CMS-Driven Content:** All landing page content is dynamically configurable via a central schema for easy updates.
 * **Fully Responsive:** A mobile-first architecture utilizing Tailwind's fluid grid system for seamless viewing on all devices.
@@ -29,7 +29,7 @@ A premium, fully responsive tarot reading website built with **React**, **TypeSc
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * **Frontend:** React 18, TypeScript
 * **Styling:** Tailwind CSS
@@ -39,7 +39,7 @@ A premium, fully responsive tarot reading website built with **React**, **TypeSc
 
 ---
 
-## Technical Compliance
+## 📋 Technical Compliance
 
 ✅ **Header Architecture:** Features a CMS-configurable logo and navigation system.
 ✅ **Optimized Hero:** Integrated video placeholders and high-impact call-to-action (CTA) buttons.
