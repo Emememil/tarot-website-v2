@@ -1,5 +1,5 @@
-cat << 'EOF' > README.md
-# 🚀 Emil William | Software Engineer & Creative Craftsperson
+
+# Emil William | Software Engineer & Creative Craftsperson
 
 A high-performance portfolio showcasing the intersection of **Systems Engineering (Rust)** and **Modern Web Architecture (React)**. This project is a testament to my philosophy: *Software is a craft, and the developer is an architect of experiences.*
 
@@ -10,7 +10,7 @@ A high-performance portfolio showcasing the intersection of **Systems Engineerin
 
 ---
 
-## 💡 Engineering Philosophy: Craft & Velocity
+## Engineering Philosophy: Craft & Velocity
 
 I believe in **AI-augmented development** to achieve production-ready results at high velocity without sacrificing technical rigor.
 - **The Craft:** Every component, from modal state transitions to viewport-aware animations, is built for maintainability and accessibility.
@@ -18,7 +18,7 @@ I believe in **AI-augmented development** to achieve production-ready results at
 
 ---
 
-## 🛠️ Technical Deep Dive
+## Technical Deep Dive
 
 ### 1. Hybrid Architecture (Web + Systems)
 My work bridges the gap between high-level UI and low-level performance.
@@ -33,7 +33,7 @@ My work bridges the gap between high-level UI and low-level performance.
 
 ---
 
-## 📂 Project Showcase
+## Project Showcase
 
 | Project | Tech Highlights | Demo |
 | :--- | :--- | :--- |
@@ -43,7 +43,7 @@ My work bridges the gap between high-level UI and low-level performance.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **BCA Graduate (2025)** with a background in creative arts. My transition from music production to software engineering gives me a unique perspective on "Logical Creativity." 
 
@@ -53,7 +53,7 @@ I am a **BCA Graduate (2025)** with a background in creative arts. My transition
 
 ---
 
-## 🚀 Local Development
+## Local Development
 
 1. **Clone & Enter:**
    ```bash
